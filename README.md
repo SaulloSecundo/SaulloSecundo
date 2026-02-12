@@ -31,7 +31,7 @@
 
 - Context: Developed as supporting material for theoretical Artificial Intelligence courses.
 
-- #### What I did: I worked on developing the agent's logic, implementing search and environment perception algorithms (vacuum-world).
+- #### What I did: I worked on the architecture and development of the agent logic (simple and goal-oriented), implementing the A* search algorithm for trajectory optimization, as well as developing the simulated environments and sensory perception systems (vacuum world) to validate the agent's autonomy.
 
 - Stack: Python, Pygame, Agent Paradigm.
 
